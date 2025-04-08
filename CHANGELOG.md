@@ -15,17 +15,24 @@
 
 🎉 **Initial Release**  
 - ✅ **Tracks time spent per programming language**  
-- ✅ **Displays stats in a table format**  - ✅ **Export logs as JSON**  
+- ✅ **Displays stats in a table format**  
+- ✅ **Export logs as JSON**  
 - ✅ **VS Code WebView for stats display**  
 
 ---
 
-## **[1.1.0] - 2025-03-27** (Replace with release date)  
+## **[1.1.0] - 2025-03-27**
 
 - ✅ **Added extention icon**  
 ---
 
-## **[1.2.0] - Upcoming Release**  
+## **[1.2.0] - 2025-04-08**
+
+- ✅ **Updated extention icon**  
+- ✅ **Fixed time glich**  
+---
+
+## **[1.3.0] - Upcoming Release**  
 
 🆕 **New Features & Improvements:**  
 - 📊 **Better UI** – Enhanced table formatting & graph-based insights  
